@@ -10,3 +10,4 @@ Develop Database
 Develop Front end
 Test the application
 Conduct Training
+rollout the system
